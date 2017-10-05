@@ -1,2 +1,3 @@
-# wabisabi-garden
-Wabisabi style prototypes.
+# Wabisabi Garden
+
+Wabi-sabi style prototypes.
