@@ -1,0 +1,31 @@
+body{
+  background-color: $romance;
+  color: $black-pearl;
+  // font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 900;
+}
+
+h1{
+  font-size: 44px;
+}
+
+h2{
+  font-size: 34px;
+}
+
+.post-title{
+  font-size: 44px;
+}
+
+.site-nav{
+  line-height: 74px;
+}
+
+.nav-logo{
+  width: 175px;
+  padding: 16px 0;
+}
