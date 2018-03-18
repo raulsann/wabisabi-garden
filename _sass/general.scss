@@ -29,3 +29,15 @@ h2{
   width: 175px;
   padding: 16px 0;
 }
+
+.site-header{
+  .wrapper{
+    display: flex;
+  }
+}
+
+.site-title{
+  display: flex;
+  flex: auto;
+  height: 74px;
+}
